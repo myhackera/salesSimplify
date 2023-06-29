@@ -1,12 +1,12 @@
 {
-  "name": "simp",
+  "name": "Contacts App",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is sales Simplify Assignment.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Shivanshu Shukla",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.3.1",
